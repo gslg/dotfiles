@@ -29,5 +29,8 @@
   ```bash
     ln -s ~/dotfiles/bash/zshrc ~/.zshrc    
   ```
-- restart zsh or source ~/.zshrc
+- restart zsh or 
 
+  ```bash
+  source ~/.zshrc
+  ```
