@@ -2,12 +2,12 @@
 
 ## oh my zsh
 
-### install zsh
+### zsh
 
 [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 
-### install ohmyzsh
-[Oh-My-ZSH](https://github.com/ohmyzsh/ohmyzsh)
+### ohmyzsh
+[Installing Oh-My-ZSH](https://github.com/ohmyzsh/ohmyzsh)
 
 ### plugins
 [Plugins Overview](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins-Overview)
@@ -29,4 +29,5 @@
   ```bash
     ln -s ~/dotfiles/bash/zshrc ~/.zshrc    
   ```
+- restart zsh or source ~/.zshrc
 
